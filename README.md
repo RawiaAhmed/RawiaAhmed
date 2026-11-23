@@ -13,8 +13,8 @@
 - 🧭 Technical Team Lead & Senior Frontend Engineer with **13 years** of experience
 - 👥 Led teams of **8–10 engineers** with a **zero QA rejection rate** sustained over 4 years
 - 🤖 I build AI interfaces that are honest about their state: streamed output, cited retrieval, human approval before any model action
-- 🏗️ Angular & TypeScript at scale: a **250k-line** platform consolidated into one workspace
-- 🌱 Currently learning: **AI engineering**: RAG, agents with guardrails, and self-hosted LLM serving
+- 🏗️ **Angular & TypeScript** at scale: a **250k-line** platform consolidated into one workspace
+- 🌱 Currently learning: **AI engineering** (RAG, agents with guardrails, and self-hosted LLM serving)
 - 🌍 Open to senior engineering & tech lead roles, **remote or relocation**
 
 ---
